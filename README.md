@@ -8,7 +8,9 @@
 
 ## 🚀 About
 
-**Abdal Better PassList** is a comprehensive password list generator designed for cybersecurity professionals, penetration testers, and security researchers. This powerful tool creates targeted password lists based on personal information, helping security experts identify weak passwords and improve overall security posture.
+
+**Abdal Better PassList** is a very powerful application for generating password lists using individuals’ identity information. The software can generate the probable passwords used by a victim for different countries by taking into account those countries’ documents and systems. It is designed for cybersecurity professionals, penetration testers, and security researchers. This powerful tool creates targeted password lists based on personal information and helps security professionals identify weak passwords and improve overall security posture.
+
 
 ## 🎯 Why This Software Was Created
 
