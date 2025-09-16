@@ -24,7 +24,7 @@ In today's digital landscape, weak passwords remain one of the most significant 
 ## ✨ Features
 
 ### 🌍 Multi-Country Support
-- **12+ Countries**: Iran, USA, UK, Germany, France, Sweden, India, Japan, UAE, Canada, Australia, and more
+- **All Countries**: Iran, USA, UK, Germany, France, Sweden, India, Japan, UAE, Canada, Australia, and other countries 
 - **Country-Specific Documents**: Handles unique document types for each country
 - **Localized Patterns**: Understands naming conventions and document formats
 
