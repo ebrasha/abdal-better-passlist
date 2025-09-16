@@ -134,7 +134,7 @@ abdal-better-passlist --test-mode
 
 ### Example 1: Interactive Mode
 ```bash
-./build/abdal-better-passlist --interactive
+abdal-better-passlist --interactive
 ```
 - Guided country selection
 - Step-by-step information collection
@@ -143,7 +143,7 @@ abdal-better-passlist --test-mode
 
 ### Example 2: High-Performance Generation
 ```bash
-./build/abdal-better-passlist --country us --complexity aggressive --workers 12 --output /tmp/passwords
+abdal-better-passlist --country us --complexity aggressive --workers 12 --output /tmp/passwords
 ```
 - Maximum complexity for comprehensive coverage
 - 12 concurrent workers for speed
@@ -151,7 +151,7 @@ abdal-better-passlist --test-mode
 
 ### Example 3: Quick Testing
 ```bash
-./build/abdal-better-passlist --country ir --complexity normal --workers 4
+abdal-better-passlist --country ir --complexity normal --workers 4
 ```
 - Fast generation for initial testing
 - Moderate complexity for efficiency
