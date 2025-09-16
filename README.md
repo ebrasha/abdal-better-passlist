@@ -49,6 +49,14 @@ In today's digital landscape, weak passwords remain one of the most significant 
 - **Organized Storage**: Configurable output directories
 - **Multiple Sessions**: Generate unlimited password lists in one session
 
+## 🔐 Abdal Better PassList vs popular password generation tools
+
+<div align="center">
+  <img src="comparison-en.png" alt="تصویر نرم‌افزار Abdal Better PassList" width="600">
+</div>
+
+
+
 ## 🛠️  Build from Source
 
 ### Prerequisites
